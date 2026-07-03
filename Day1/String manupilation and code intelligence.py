@@ -1,0 +1,1 @@
+print("Swamiye Sharanam Ayyappa\n Swamiye Sharanam Ayyappa\n Swamiye Sharanam Ayyappa\n Swamiye Sharanam Ayyappa\n Swamiye Sharanam Ayyappa")
