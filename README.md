@@ -9,7 +9,7 @@ Data/ML applications.
 | Day | Project | Concepts Covered |
 |-----|---------|-------------------|
 | 1   | [Hello World / Print Basics](./Day1) | print(), strings |
-| 2   | Coming soon | - |
+| 2   | [Data Types and String Manupilations](./Day2/Tip%20Calculator_Day%202%20Project.py) | - |
 
 ## About Me
 ML Data Associate at Amazon, transitioning towards AI Trainer / Prompt 
